@@ -1,0 +1,15 @@
+{
+    "address": {
+        "heading": "find us",
+        "details": "132 9th Avenue New York, NY 12345",
+        "tel": "0123456788",
+        "email": "info@mail.com"
+    },
+    "hours": {
+        "heading": "hours of operation",
+        "mon": { "day": "monday", "time": "8am - 4pm" },
+        "tue": { "day": "tuesday to friday", "time": "8am - 4pm" },
+        "sat": { "day": "saturday", "time": "9am - 10pm" },
+        "sun": { "day": "sunday", "time": "8am - 4pm" }
+    }
+}
